@@ -23,13 +23,9 @@ Bereits im Vorfeld können Sie sich über die Funktionalitäten von TIB-AV-A in 
 
 <video id="welcome-video" style="width: 100%" controls="controls"><source src="https://tib.eu/cloud/s/sMmqWqWYict3Zpb/download/TIB-AV-A_Einfuehrung_2.mp4" type="video/mp4"></video>
 
-Sie können auch sich auch bereits vor dem Workshop einen **Account erstellen** und ihre **eigenen Videos hochladen** damit Rechenressourcen und Zeit während des Workshop eingespart werden können. Alternativ können Sie auch Beispielvideos unter folgenden Link herunterladen: [https://tib.eu/cloud/s/FpRbgQRwASwGzkr](https://tib.eu/cloud/s/FpRbgQRwASwGzkr)
+Sie können auch sich auch bereits vor dem Workshop einen **Account erstellen** und ihre **eigenen Videos hochladen** damit Rechenressourcen und Zeit während des Workshop eingespart werden können. Alternativ können Sie auch **Beispielvideos** unter folgenden Link herunterladen: [https://tib.eu/cloud/s/FpRbgQRwASwGzkr](https://tib.eu/cloud/s/FpRbgQRwASwGzkr)
 
 Bei Fragen oder Problemen, wenden Sie sich bitte an Matthias Springstein ([matthias.springstein@tib.eu](mailto:matthias.springstein@tib.eu)) oder Elias Entrup ([elias.entrup@tib.eu](mailto:elias.entrup@tib.eu))
-
-
-
-
 
 # Programm
 
