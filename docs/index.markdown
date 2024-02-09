@@ -13,7 +13,7 @@ Das Ziel des Workshops ist, Teilnehmer:innen aus den Digital Humanities sowie we
 
 # Vor dem Workshop
 
-Wir bieten Teilnehmer:innen die Möglichkeit sich bereits vor dem Workshop mit den Organisatoren und anderen Teilnehmenden über **Discord** zu vernetzen. Sie können unserem Discord-Server über folgenden Link beitreten: [https://discord.gg/Jr5VByVUt4](https://discord.gg/Jr5VByVUt4)
+Wir bieten Teilnehmer:innen die Möglichkeit sich bereits vor dem Workshop mit den Organisatoren und anderen Teilnehmenden über **Discord** zu vernetzen. Sie können unserem Discord-Server über folgenden Link beitreten: [https://discord.gg/JmwuEdvMPt](https://discord.gg/JmwuEdvMPt)
 
 Des Weiteren haben wir ein **Miro-Board** erstellt, über welches Sie uns bereits im Vorfeld ihre **Erwartungen an den Workshop** mitteilen können. Wir würden uns über Anregungen ihrerseits sehr freuen! Sie können das Miro-Board über folgenden Link öffnen: [https://miro.com/app/board/uXjVNzdXxV0=/?share_link_id=573717705859](https://miro.com/app/board/uXjVNzdXxV0=/?share_link_id=573717705859)
 
