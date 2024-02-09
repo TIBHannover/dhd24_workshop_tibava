@@ -17,11 +17,17 @@ Wir bieten Teilnehmer:innen die Möglichkeit sich bereits vor dem Workshop mit d
 
 Des Weiteren haben wir ein **Miro-Board** erstellt, über welches Sie uns bereits im Vorfeld ihre **Erwartungen an den Workshop** mitteilen können. Wir würden uns über Anregungen ihrerseits sehr freuen! Sie können das Miro-Board über folgenden Link öffnen: [https://miro.com/app/board/uXjVNzdXxV0=/?share_link_id=573717705859](https://miro.com/app/board/uXjVNzdXxV0=/?share_link_id=573717705859)
 
-Bereits im Vorfeld können Sie sich über die Funktionalitäten von TIB-AV-A in folgendem **Video-Tutorial\*** informieren. Sie können auch sich auch bereits vor dem Workshop einen **Account erstellen** und ihre **Videos hochladen** damit Rechenressourcen und Zeit während des Workshop eingespart werden können. Falls Sie Fragen oder Probleme haben, wenden Sie sich bitte an Matthias Springstein ([matthias.springstein@tib.eu](mailto:matthias.springstein@tib.eu))
+Bereits im Vorfeld können Sie sich über die Funktionalitäten von TIB-AV-A in folgendem **Video-Tutorial** informieren. 
 
 *\*Bitte beachten Sie, dass das Video auf einer älteren Version von TIB-AV-A basiert und seitdem mehr Funktionalitäten hinzugefügt wurden.*
 
 <video id="welcome-video" style="width: 100%" controls="controls"><source src="https://tib.eu/cloud/s/sMmqWqWYict3Zpb/download/TIB-AV-A_Einfuehrung_2.mp4" type="video/mp4"></video>
+
+Sie können auch sich auch bereits vor dem Workshop einen **Account erstellen** und ihre **eigenen Videos hochladen** damit Rechenressourcen und Zeit während des Workshop eingespart werden können. Alternativ können Sie auch Beispielvideos unter folgenden Link herunterladen: [https://tib.eu/cloud/s/FpRbgQRwASwGzkr](https://tib.eu/cloud/s/FpRbgQRwASwGzkr)
+
+Bei Fragen oder Problemen, wenden Sie sich bitte an Matthias Springstein ([matthias.springstein@tib.eu](mailto:matthias.springstein@tib.eu)) oder Elias Entrup ([elias.entrup@tib.eu](mailto:elias.entrup@tib.eu))
+
+
 
 
 
